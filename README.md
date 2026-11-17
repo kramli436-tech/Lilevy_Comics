@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./lilevy-comics-showcase.jpeg" width="700" alt="LILEVY COMICS UI/UX Design Showcase">
+  <img src="./lilevy-comics-showcase.jpeg" width="500" alt="LILEVY COMICS UI/UX Design Showcase">
 </div>
-![LILEVY COMICS UI/UX Design Showcase](./lilevy-comics-showcase.jpeg)
+
 # Lilevy Comics
 
 **Lilevy Comics** adalah aplikasi pembaca komik Android (Manga, Manhwa, dan Manhua) dengan tampilan bersih, ringan, mendukung pembacaan offline, serta **100% bebas iklan dan pop-up**.
