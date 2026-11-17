@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./lilevy-comics-showcase.jpeg" width="550" alt="LILEVY COMICS UI/UX Design Showcase">
+  <img src="./lilevy-comics-showcase.jpeg" width="250" alt="LILEVY COMICS UI/UX Design Showcase">
 </div>
 
 # Lilevy Comics
