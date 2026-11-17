@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./lilevy-comics-showcase.jpeg" width="700" alt="LILEVY COMICS UI/UX Design Showcase">
 </div>
+<img src="./lilevy-comics-showcase.jpeg" width="75%" alt="LILEVY COMICS UI/UX Design Showcase">
 ![LILEVY COMICS UI/UX Design Showcase](./lilevy-comics-showcase.jpeg)
 # Lilevy Comics
 
